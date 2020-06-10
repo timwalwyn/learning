@@ -1,94 +1,149 @@
 {
   "Technologies": [
     {
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-      "Name": "Excel2",
+      "Id": "87412ae4-6930-2825-57a9-12542934584b",
+      "Name": "Outlook",
       "Subjects": []
     },
 	{
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc473",
-      "Name": "Excel3",
+      "Id": "939d6333-4480-8774-8dec-081dfd34a03f",
+      "Name": "Teams",
+      "Subjects": []
+    },
+	{
+      "Id": "a904ba7d-72a9-0a01-284e-2f2c152e0493",
+      "Name": "OneNote",
+      "Subjects": []
+    },
+	{
+      "Id": "0e786a19-567e-74b6-131a-1f25882d6577",
+      "Name": "Matrix",
+      "Subjects": []
+    },
+	{
+      "Id": "5114e74e-a795-13ad-59ec-bcf6841a46de",
+      "Name": "PowerPoint",
+      "Subjects": []
+    },
+	{
+      "Id": "c4668faf-a0a2-9053-8f0a-34bfdb9f26e4",
+      "Name": "Planner",
+      "Subjects": []
+    },
+	{
+      "Id": "c14714b5-0854-67a4-400e-0f4868fd971c",
+      "Name": "To-Do",
+      "Subjects": []
+    },
+	{
+      "Id": "cbcc49b0-9485-67de-8aec-648ee2cb0c15",
+      "Name": "Chat",
+      "Subjects": []
+    },
+	{
+      "Id": "5e88fa17-56cf-0ae5-5732-ddb609e92ce8",
+      "Name": "Email",
       "Subjects": []
     }
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started2",
+      "Id": "5ceb003a-2553-62bf-2a72-6f0badd17b5a",
+      "Name": "How do I run a smart meeting",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
-        {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
+      ]
+    },
+	{
+      "Id": "f409993f-0f52-0fbb-3247-ddaa9fe74b2c",
+      "Name": "Forming ideas, & sharing knowledge",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "8471b3c8-7c19-1fe4-234e-b5d865ca9f7d",
+      "Name": "Creating impactful outputs",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "21780daa-2c80-08c9-3abf-24971ca32316",
+      "Name": "Digitising business processes",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "9d8e107a-a775-7b6c-9b25-01b0a1b54329",
+      "Name": "Storing & finding information",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "58654d2e-15b9-213b-1f7e-5e1afd8b1dfc",
+      "Name": "Digital Identity, wellbeing and safety",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "a02bd000-8102-7744-18e6-c2d4761e5d40",
+      "Name": "Planning my day",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "3027340f-7cd7-4306-09a9-b3e06af28762",
+      "Name": "Collaborating as a Team",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
       ]
     }
   ],
   "Audiences": [
     {
-      "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
-      "Name": "Admin"
+      "Id": "e7f86ad9-779d-3cd3-791d-30c5203b36a7",
+      "Name": "TfL Admin"
     },
     {
-      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "HelpDesk"
+      "Id": "c9e0a554-022c-0368-722f-11246b9f0691",
+      "Name": "TfL Change Manager"
     },
     {
-      "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
-      "Name": "Change Manager"
+      "Id": "f8ff6df1-5766-6574-8c72-b2aaa29b7348",
+      "Name": "TfL Champion"
     },
     {
-      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
-      "Name": "Champions/Trainer"
-    },
-    {
-      "Id": "d093e0b6-b9f1-4b46-877c-0a49e989ee40",
-      "Name": "Executive Assistant"
-    },
-    {
-      "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
-      "Name": "VIP"
-    },
-    {
-      "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-      "Name": "End User"
-    },
-    {
-      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
-      "Name": "Content Editor"
-    },
-    {
-      "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
-      "Name": "Content Manager"
-    },
-    {
-      "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
-      "Name": "Group Owner"
-    },
-    {
-      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
-    },
-    {
-      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-      "Name": "All"
+      "Id": "09919a96-5972-7f86-8c04-17f3d775493e",
+      "Name": "TfL End User"
     }
   ],
   "Sources": [
@@ -96,46 +151,47 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+	"WM Reply"
   ],
   "Levels": [
     {
-      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-      "Name": "Beginner2"
+      "Id": "1df8021d-86fe-1e3f-9222-b470afeb6dbb",
+      "Name": "TfL Beginner"
     },
     {
-      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
-      "Name": "Intermediate2"
+      "Id": "025bdda0-8214-6321-70cf-fd5357c1289c",
+      "Name": "TfL Intermediate"
     },
     {
-      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
-      "Name": "Advanced2"
+      "Id": "8cc2c214-10c4-2e99-1a1d-54d155cf3b8d",
+      "Name": "TfL Advanced"
     }
   ],
   "StatusTag": [
     {
-      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "Id": "ddcf3d66-4486-9705-429a-b62656e89a6c",
       "Name": "New"
     },
     {
-      "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
+      "Id": "da521cbb-113d-4b89-9d77-6d76f5790074",
       "Name": "Updated"
     },
     {
-      "Id": "90fe6290-e063-4778-a8a1-7531c2a0a40e",
+      "Id": "2bdebbd2-92ae-74ee-53db-480e12a504fc",
       "Name": "Retiring"
     },
     {
-      "Id": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+      "Id": "ef318e77-93d4-5162-a03f-120af8513db4",
       "Name": "Retired"
     },
     {
-      "Id": "42be48f6-1f82-4fda-a757-add2499677d9",
+      "Id": "4013cb72-1190-50a3-72bf-44de615d7ce1",
       "Name": "Beta"
     }
   ],
   "Telemetry": {
-    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+    "AppInsightKey": ""
   },
   "Version": {
     "Manifest": "v3",
